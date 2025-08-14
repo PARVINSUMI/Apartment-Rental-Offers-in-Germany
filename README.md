@@ -67,6 +67,8 @@ The goal is to analyze the German real estate market by examining key property a
 ## **Links**  
 - **Raw Dataset:** [Kaggle](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany?select=immo_data.csv)  
 - **Project Presentation:** [Google Slides](https://docs.google.com/presentation/d/1G7lvczAsh8ooRj8JuCrzom3beYpcwzGh/edit?slide=id.p3#slide=id.p3)
+- **Tableau Dashboard:** [Apartment Rental Offers in Germany](https://public.tableau.com/app/profile/sumaiya.parvin/viz/ApartmentRentalofferinGermany/Dashboard1?publish=yes)
+
 
 ---
 
