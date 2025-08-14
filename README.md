@@ -33,26 +33,23 @@ The goal is to analyze the German real estate market by examining key property a
 
 ## **Project Workflow**  
 
-### **1. Data Collection**  
+### **Data Collection**  
 - Source: [Kaggle Dataset – Apartment Rental Offers in Germany](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany?select=immo_data.csv)  
 
-### **2. Data Cleaning & Wrangling**  
+### **Data Cleaning & Wrangling**  
 - Handle missing values.  
 - Correct inconsistencies in categorical data.  
 - Prepare dataset for analysis.  
 
-### **3. Exploratory Data Analysis (EDA)**  
+### **Exploratory Data Analysis (EDA)**  
 - Explore feature distributions.  
 - Identify correlations between property attributes and prices.  
 
-### **4. Feature Engineering**  
-- Create new variables such as *Living Space per Room*, *Property Condition Score*, and *Location Categories*.  
-
-### **5. Statistical Analysis**  
+### **Statistical Analysis**  
 - Perform hypothesis testing (ANOVA, Chi-Square).  
 - Evaluate feature significance on rental prices.  
 
-### **6. Data Visualization & Dashboarding**  
+### **Data Visualization & Dashboarding**  
 - Design **interactive dashboards** in Tableau/Power BI.  
 - Enable filtering by location, property type, and other attributes.  
 
@@ -64,20 +61,12 @@ The goal is to analyze the German real estate market by examining key property a
 - **Tableau** – Interactive dashboards.  
 - **Jupyter Notebook** – Analysis documentation and reporting.  
 
----
-
-## **Deliverables**  
-- ✅ Processed real estate dataset.  
-- ✅ SQL scripts for data extraction & transformation.  
-- ✅ Python notebooks for EDA, statistical analysis, and feature engineering.  
-- ✅ Tableau dashboard visualizing real estate trends and price determinants.  
-- ✅ Comprehensive project report with findings and recommendations.  
 
 ---
 
 ## **Links**  
 - **Raw Dataset:** [Kaggle](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany?select=immo_data.csv)  
-- **Project Presentation:** [Google Slides](https://docs.google.com/presentation/d/1zG7YBlRn_EydEfRQs_iAefj9LKNMvX_l1kgBPdA2ohc/edit?slide=id.g37369ceb801_0_964#slide=id.g37369ceb801_0_964)  
+- **Project Presentation:** [Google Slides](https://docs.google.com/presentation/d/1G7lvczAsh8ooRj8JuCrzom3beYpcwzGh/edit?slide=id.p3#slide=id.p3)
 
 ---
 
